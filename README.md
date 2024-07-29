@@ -17,3 +17,6 @@
 - Coupon that has longer expiration date has higher acceptance rate
 - Coupon has highest acceptance rate in the evening around 6 PM
 
+## Practical Application Assignment 11.1: What Drives the Price of a Car?
+### Based on the data exploration, model building and evaluation, below are my observations
+- I used different linear regression algorithms and different methods for feature engineering and hyperparameter tuning. Based on the observation, it's difficult to predict what used car drivers are looking for in a car because our dataset has different type of cars. However, we can use these models to predict price of used cars. We can see that 'number of cylinders', 'odometer', 'age of the car', 'condition of the car', 'size','type' features influence the price more. As expected the higher the cylinder, the higher the price. Odometer and age features have negative correlation to price.
