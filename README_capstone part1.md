@@ -34,6 +34,7 @@
 
 
 #### Outline of project
-
+Link to the notebook that has exploratory data analysis and model creation.
+https://github.com/vbsathya/aimlcourse/blob/main/exploratory%20data%20analysis%20and%20initial%20model%20creation.ipynb
 
 ##### Contact and Further Information
