@@ -11,7 +11,7 @@
     How successfully we can predict the impact of a tax law change proposed by US states in the corporate tax domain. 
 
 #### Data Sources
-    **US State Tax Change News** : Sourced from a third-party tax research product under a Non-Disclosure Agreement (NDA). This ensures access to reliable and up-to-date information on proposed or enacted changes in state tax laws.
+    __US State Tax Change News__ : Sourced from a third-party tax research product under a Non-Disclosure Agreement (NDA). This ensures access to reliable and up-to-date information on proposed or enacted changes in state tax laws.
     **Tax Form Instructions** : Downloaded as PDFs from official state tax websites. For example, the instructions for New Jersey's corporate business tax form (CBT-100) can be found here: https://nj.gov/treasury/taxation/pdf/current/cbt/cbt100ins.pdf. These instructions provide clear guidance on how to complete and file the tax form, who is required to file it, and explain the business logic and conditions that companies need to consider when determining their tax obligations.
     *Electronic Tax Filing Schemas*: Acquired from state tax websites. These are XSD (XML Schema Definition) files that define the specific elements (data fields) required for electronic tax filing. Each element within the schema corresponds to a specific line item on the tax form. This data structure ensures accurate and standardized electronic filing for state taxes.
 
